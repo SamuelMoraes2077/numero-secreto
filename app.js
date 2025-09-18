@@ -84,3 +84,4 @@ function reiniciarJogo() {
 
 
 
+//Comentário teste para commit
